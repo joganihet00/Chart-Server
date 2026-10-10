@@ -54,19 +54,3 @@ Bug / Feature Request
 If you find a bug (the application couldn't handle the query and / or gave undesired results), kindly open an issue here.
 
 If you'd like to request a new function, feel free to do so by opening an issue here.
-
-Screenshots
-Sign In Activity
-
-
-Main Menu Activity
-
-
-View Rooms Activty
-
-
-Chat Activity
-
-
-License
-See LICENSE
